@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋
 
-<!--
-**Pavanjadhav7/Pavanjadhav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA graduate from Dandeli, Karnataka, looking for an entry-level IT role or internship in Bangalore.
 
-Here are some ideas to get you started:
+## Skills
+- Linux and basic networking
+- AWS (Cloud Practitioner Essentials certified)
+- Customer support experience at Cogent (Axis Bank)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Building small projects to improve my skills
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/pavan-jadhav-165aaa287

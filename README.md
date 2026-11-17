@@ -5,7 +5,6 @@ BCA graduate from Dandeli, Karnataka, looking for an entry-level IT role or inte
 ## Skills
 - Linux and basic networking
 - AWS (Cloud Practitioner Essentials certified)
-- Customer support experience at Cogent (Axis Bank)
 
 ## What I'm working on
 - Building small projects to improve my skills
